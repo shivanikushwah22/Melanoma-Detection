@@ -1,5 +1,5 @@
 # Melanoma-Detection
- Melanoma is a type of cancer that can be deadly if not detected early.
+ Melanoma is a type of skin cancer that can be deadly if not detected early.
 
 ## General Information
 - **What is the background of your project?**
